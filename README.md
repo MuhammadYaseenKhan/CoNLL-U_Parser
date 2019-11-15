@@ -3,4 +3,5 @@ It is a very small but quick Python script that converts .conllu file into a Tab
 
 
 ### Requirements
-Pandas
+- Python3
+- Pandas
