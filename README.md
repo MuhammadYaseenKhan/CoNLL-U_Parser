@@ -1,2 +1,6 @@
 # CoNLL-U_Parser
-An small Python script that converts .conllu file into a tsv
+It is a very small but quick Python script that converts .conllu file into a Tab Separated View (.tsv) format.
+
+
+### Requirements
+Pandas
